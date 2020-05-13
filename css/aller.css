@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "aller";
+	src: url("fonts/Aller_Bd.ttf");
+    src: local('?'),
+    url("fonts/other/Aller_lt.ttf") format("truetype");
+
+}
